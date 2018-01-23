@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5W1H", "5W1H.csproj", "{C0C8FC93-E709-C998-5EAA-71CD8660C6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5W1H.Editor", "5W1H.Editor.csproj", "{B80165BD-F861-9748-ECEE-418E5C341510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C8FC93-E709-C998-5EAA-71CD8660C6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C8FC93-E709-C998-5EAA-71CD8660C6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C8FC93-E709-C998-5EAA-71CD8660C6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C8FC93-E709-C998-5EAA-71CD8660C6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80165BD-F861-9748-ECEE-418E5C341510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80165BD-F861-9748-ECEE-418E5C341510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80165BD-F861-9748-ECEE-418E5C341510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80165BD-F861-9748-ECEE-418E5C341510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
